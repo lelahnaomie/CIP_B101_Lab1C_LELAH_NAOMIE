@@ -1,0 +1,7 @@
+
+Name               Model                           Size
+----               -----                           ----
+\\.\PHYSICALDRIVE1 KBG30ZMT256G TOSHIBA    256052966400
+\\.\PHYSICALDRIVE0 MTFDDAV256TBN-1AR1ZABHA 256052966400
+
+

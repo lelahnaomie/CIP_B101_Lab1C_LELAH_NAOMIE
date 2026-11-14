@@ -1,0 +1,6 @@
+
+Name                                    
+----                                    
+Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+
+

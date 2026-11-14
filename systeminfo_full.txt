@@ -1,0 +1,62 @@
+
+Host Name:                     LNIN
+OS Name:                       Microsoft Windows 11 Pro
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              N/A
+Registered Organization:       N/A
+Product ID:                    00330-50822-21863-AAOEM
+Original Install Date:         29/08/2026, 04:18:31
+System Boot Time:              14/11/2026, 05:29:36
+System Manufacturer:           LENOVO
+System Model:                  20JNS0E521
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 78 Stepping 3 GenuineIntel ~2396 Mhz
+BIOS Version:                  LENOVO N1QET67W (1.42 ), 03/10/2017
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume2
+System Locale:                 en-gb;English (United Kingdom)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+01:00) West Central Africa
+Total Physical Memory:         16,263 MB
+Available Physical Memory:     9,114 MB
+Virtual Memory: Max Size:      17,287 MB
+Virtual Memory: Available:     11,059 MB
+Virtual Memory: In Use:        6,228 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\LNIN
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5127690
+                               [02]: KB5054156
+                               [03]: KB5127648
+                               [04]: KB5127647
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: Intel(R) Dual Band Wireless-AC 8260
+                                     Connection Name: WiFi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.243.103.75
+                                     IP address(es)
+                                     [01]: 10.243.103.179
+                                     [02]: fe80::9286:9244:ca7f:5697
+                               [02]: Intel(R) Ethernet Connection I219-LM
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [03]: VirtualBox Host-Only Ethernet Adapter
+                                     Connection Name: Ethernet 2
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 192.168.56.1
+                                     [02]: fe80::3c93:4ede:aa76:f718
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Audit
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          VM Monitor Mode Extensions: Yes
+                               Virtualization Enabled In Firmware: Yes
+                               Second Level Address Translation: Yes
+                               Data Execution Prevention Available: Yes

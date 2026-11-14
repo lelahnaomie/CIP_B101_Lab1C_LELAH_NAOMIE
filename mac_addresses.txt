@@ -1,0 +1,20 @@
+
+MACAddress        Description                             
+----------        -----------                             
+28:C6:3F:CD:94:25 Intel(R) Dual Band Wireless-AC 8260     
+28:C6:3F:CD:94:26 Microsoft Wi-Fi Direct Virtual Adapter  
+54:E1:AD:EB:63:F4 Intel(R) Ethernet Connection I219-LM    
+                  Microsoft Kernel Debug Network Adapter  
+2A:C6:3F:CD:94:25 Microsoft Wi-Fi Direct Virtual Adapter  
+                  WAN Miniport (SSTP)                     
+                  WAN Miniport (IKEv2)                    
+                  WAN Miniport (L2TP)                     
+                  WAN Miniport (PPTP)                     
+                  WAN Miniport (PPPOE)                    
+84:0F:20:52:41:53 WAN Miniport (IP)                       
+86:31:20:52:41:53 WAN Miniport (IPv6)                     
+88:89:20:52:41:53 WAN Miniport (Network Monitor)          
+0A:00:27:00:00:0F VirtualBox Host-Only Ethernet Adapter   
+                  Bluetooth Device (Personal Area Network)
+
+
